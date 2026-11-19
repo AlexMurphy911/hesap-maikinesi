@@ -1,0 +1,2 @@
+afba10454b8c8fb1662e14900fecdebd0c4f801efa761d6e2350945479ff70d3  Hesap-Makinesi-Kurulum.exe
+b2fc83f1abdfa4d984e866025c4f0d4008c2406ab47df5db0a1b40d03ebad8e5  HesapMakinesi.exe
